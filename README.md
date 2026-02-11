@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Ghalleb</h1>
-<h3 align="center">A software enginnering student at INSAT and a passionate learner for the tech world</h3>
+<h3 align="center">A software engineering student at INSAT and a passionate learner for AI and app development</h3>
 
 - 🔭 I’m currently working on **my personal portfolio**
 
