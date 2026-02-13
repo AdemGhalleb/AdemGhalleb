@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adem Ghalleb</h1>
 <h3 align="center">A software engineering student at INSAT and a passionate learner for AI and app development</h3>
 
-- 🔭 I’m currently working on **my personal portfolio**
+- 🔭 I’m currently working on **my personal portfolio** and **cinema booking website**
 
 - 📫 How to reach me **adghalleb@gmail.com**
 
