@@ -4,7 +4,7 @@
   A software engineering student at INSAT and a passionate learner for AI and app development
 </h3>
 
-- 🔭 I’m currently working on **my personal portfolio** and **cinema booking website**
+- 🔭 I’m currently learning **system design and agentic ai** and building **clean production-ready projects**
 
 - 📫 How to reach me: **adghalleb@gmail.com**
 
