@@ -34,8 +34,53 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<!-- Core Engineering Stack -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,openai,langchain,fastapi,nodejs,postgres,redis,docker,kubernetes,aws,linux,git,github,cpp,java,js&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,linux,git&perline=7" />
   </a>
+</p>
+
+<p align="center">
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+       alt="pytorch"
+       width="50"
+       height="50"
+       style="object-fit: contain; margin: 5px;" />
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+       alt="tensorflow"
+       width="50"
+       height="50"
+       style="object-fit: contain; margin: 5px;" />
+</a>
+
+<a href="https://huggingface.co/docs/smolagents" target="_blank">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"
+       alt="huggingface"
+       width="50"
+       height="50"
+       style="object-fit: contain; margin: 5px;" />
+</a>
+
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png"
+       alt="langgraph"
+       width="50"
+       height="50"
+       style="object-fit: contain; margin: 5px;" />
+</a>
+
+<a href="https://www.llamaindex.ai/" target="_blank">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png"
+       alt="llamaindex"
+       width="50"
+       height="50"
+       style="object-fit: contain; margin: 5px;" />
+</a>
+
 </p>
