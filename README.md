@@ -28,6 +28,13 @@
          width="40"
          style="margin-right:10px;" />
   </a>
+    <a href="https://www.kaggle.com/ademghalleb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+         alt="kaggle"
+         height="30"
+         width="40"
+         style="margin-right:10px;" />
+  </a>
 </p>
 
 ---
