@@ -44,7 +44,7 @@
 <!-- Core Engineering Stack -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,linux,git&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,java,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,linux,git&perline=7" />
   </a>
 </p>
 
