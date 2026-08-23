@@ -4,7 +4,7 @@
   A software engineering student at INSAT focused on AI engineering, LLM applications, and building scalable intelligent systems
 </h3>
 
-- 🔭 I’m currently learning **system design and agentic ai** and building **an app for university students :Rune**
+- 🔭 I’m currently learning **fullstack development and agentic ai** and building **an app for university students :Rune**
 
 - 📫 How to reach me: **adghalleb@gmail.com**
 
