@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Adem Ghalleb</h1>
+<h1 align="center">Hi , I'm Adem Ghalleb</h1>
 
 <h3 align="center">
   A software engineering student at INSAT focused on AI engineering, LLM applications, and building scalable intelligent systems
 </h3>
 
-- 🔭 I’m currently learning **fullstack development and agentic ai** and building **an app for university students :Rune**
+- I’m currently learning **fullstack development and agentic ai** and building **an app for university students :Rune**
 
-- 📫 How to reach me: **adghalleb@gmail.com**
+- How to reach me: **adghalleb@gmail.com**
 
 ---
 
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=python,typescript,java,react,nextjs,express,nestjs,nodejs,fastapi,postgres,redis,docker,linux,git,&perline=7" />
   </a>
 </p>
-
+<h3 align="left">AI/ML:</h3>
 <p align="center">
 
 <a href="https://pytorch.org/" target="_blank">
