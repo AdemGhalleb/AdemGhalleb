@@ -7,6 +7,9 @@
 - I’m currently learning **fullstack development and agentic ai** and building **an app for students :Rune**
 
 - How to reach me: **adghalleb@gmail.com**
+<p align="center">
+  <img src=https://komarev.com/ghpvc/?username=AdemGhalleb&color=green />
+</p>
 
 ---
 
@@ -36,6 +39,7 @@
          style="margin-right:10px;" />
   </a>
 </p>
+
 
 ---
 
@@ -91,3 +95,4 @@
 </a>
 
 </p>
+
