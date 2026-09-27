@@ -4,8 +4,8 @@
   A software engineering student at INSAT focused on AI engineering, LLM applications, and building scalable intelligent systems
 </h3>
 
-- I’m currently learning **fullstack development and agentic ai** and building **an app for students :Rune**
-
+- I’m currently learning **fullstack development and agentic ai** 
+- I am building **an app for students :Rune**
 - How to reach me: **adghalleb@gmail.com**
 <p align="center">
   <img src=https://komarev.com/ghpvc/?username=AdemGhalleb&color=green />
